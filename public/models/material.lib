@@ -1,0 +1,3053 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2022 Aspose Pty Ltd.
+# File created: 09/30/2022 12:43:00
+
+newmtl Cylinder_022_prim0
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_01_shiny_n
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_shiny_n_baseColor.jpeg
+newmtl ISS_AO_01
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_01_baseColor.jpeg
+newmtl ISS_AO_02
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_02_baseColor.jpeg
+newmtl ISS_AO_01
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_01_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl Cylinder_022_prim0
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_AO_02
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_02_baseColor.jpeg
+newmtl Cylinder_022_prim0
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_AO_02
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_02_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_AO_06
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_06_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_AO_06
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_06_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl olive
+	Ka 0.2 0.2 0.2
+	Kd 0.239552 0.226578 0.16225899999999998
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_AO_04
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_04_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_AO_03
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_03_baseColor.jpeg
+newmtl ISS_01_shiny_n
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_shiny_n_baseColor.jpeg
+newmtl ISS_01_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dark_baseColor.jpeg
+newmtl foil_silver
+	Ka 0.2 0.2 0.2
+	Kd 1 0.999999 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl Cylinder_022_prim0
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ISS_AO_03
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_03_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_AO_01
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_01_baseColor.jpeg
+newmtl ISS_01_shiny_n
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_shiny_n_baseColor.jpeg
+newmtl ISS_03_shiny_n
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_shiny_n_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_02_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dark_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_AO_04
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_04_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_AO_05
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_05_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_02_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dark_baseColor.jpeg
+newmtl ISS_AO_05
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_05_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_AO_05
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_05_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_AO_05
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_05_baseColor.jpeg
+newmtl ISS_AO_05
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_05_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_AO_03
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_03_baseColor.jpeg
+newmtl ISS_02_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dark_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_AO_06
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_06_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_02_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dark_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dark_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dark_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_AO_03
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_03_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_02_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dark_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dark_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dark_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_01_shiny_n
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_shiny_n_baseColor.jpeg
+newmtl ISS_AO_07
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_07_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_AO_07
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_07_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_AO_07
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_07_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_AO_07
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_07_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_AO_07
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_07_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_02_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dark_baseColor.jpeg
+newmtl ISS_AO_05
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_05_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_AO_05
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_05_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_AO_05
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_05_baseColor.jpeg
+newmtl ISS_AO_05
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_05_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_AO_03
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_03_baseColor.jpeg
+newmtl ISS_02_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dark_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_AO_06
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_06_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_02_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dark_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_AO_03
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_03_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_02_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dark_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dark_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dark_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dark_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dark
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dark_baseColor.jpeg
+newmtl ISS_AO_07
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_07_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_AO_08
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_08_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl Cylinder_022_prim0
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ISS_01_shiny_n
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_shiny_n_baseColor.jpeg
+newmtl ISS_AO_01
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_01_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_AO_02
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_02_baseColor.jpeg
+newmtl ISS_AO_01
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_01_baseColor.jpeg
+newmtl Cylinder_022_prim0
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_01_shiny_n
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_shiny_n_baseColor.jpeg
+newmtl ISS_AO_01
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_01_baseColor.jpeg
+newmtl ISS_AO_06
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_06_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_AO_07
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_07_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl foil_silver
+	Ka 0.2 0.2 0.2
+	Kd 1 0.999999 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl Cylinder_022_prim0
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_AO_01
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_01_baseColor.jpeg
+newmtl ISS_03_shiny_n
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_shiny_n_baseColor.jpeg
+newmtl ISS_AO_04
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_04_baseColor.jpeg
+newmtl Cylinder_022_prim0
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_03_shiny_n
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_shiny_n_baseColor.jpeg
+newmtl ISS_AO_01
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_01_baseColor.jpeg
+newmtl ISS_AO_04
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_04_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_AO_07
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_07_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl Cylinder_022_prim0
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ISS_03_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_baseColor.jpeg
+newmtl ISS_AO_04
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_04_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_03_shiny_n
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_shiny_n_baseColor.jpeg
+newmtl ISS_01_shiny_n
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_shiny_n_baseColor.jpeg
+newmtl ISS_AO_01
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_01_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_01_shiny_n
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_shiny_n_baseColor.jpeg
+newmtl ISS_AO_07
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_07_baseColor.jpeg
+newmtl Cylinder_022_prim0
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ISS_01_shiny_n
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_shiny_n_baseColor.jpeg
+newmtl ISS_AO_01
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_01_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_AO_02
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_02_baseColor.jpeg
+newmtl ISS_AO_01
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_01_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_AO_01
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_01_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl ISS_04_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_04_dull_baseColor.jpeg
+newmtl Cylinder_022_prim0
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl Cylinder_022_prim0
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_01_shiny_n
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_shiny_n_baseColor.jpeg
+newmtl ISS_AO_01
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_01_baseColor.jpeg
+newmtl ISS_AO_06
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_AO_06_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl shiny_panel
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd shiny_panel_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl ISS_02_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_02_dull_baseColor.jpeg
+newmtl white
+	Ka 0.2 0.2 0.2
+	Kd 0.496933 0.496933 0.496933
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl base_metal
+	Ka 0.2 0.2 0.2
+	Kd 0.31854700000000004 0.314258 0.25295
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ISS_03_dull_001
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_001_baseColor.jpeg
+newmtl ecostress
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ecostress_baseColor.jpeg
+newmtl plastic_black
+	Ka 0.2 0.2 0.2
+	Kd 0.0264534 0.0264534 0.0264534
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ecostressWhite
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl ISS_03_dull_002
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_03_dull_002_baseColor.jpeg
+newmtl ecostress_metal
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ecostress_metal_baseColor.jpeg
+newmtl ISS_01_dull
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ISS_01_dull_baseColor.jpeg
+newmtl ecostress_dexter
+	Ka 0.2 0.2 0.2
+	Kd 1 1 1
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+	map_Kd ecostress_dexter_baseColor.jpeg
